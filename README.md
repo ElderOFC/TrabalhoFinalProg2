@@ -117,9 +117,9 @@ Cada tipo possui atributos específicos conforme os requisitos do trabalho.
 ## 👨‍💻 Equipe
 
 * [Elder Alencar](https://github.com/ElderOFC)
-* [Hudglan Silva]()
-* [Raimundo Junior]()
-* [Wolliver Rodrigues]()
+* [Hudglan Silva](https://github.com/ElderOFC/TrabalhoFinalProg2)
+* [Raimundo Junior](https://github.com/ElderOFC/TrabalhoFinalProg2)
+* [Wolliver Rodrigues](https://github.com/ElderOFC/TrabalhoFinalProg2)
 
 ---
 
